@@ -75,9 +75,9 @@ __ https://github.com/david415/reading_lists/blob/master/tcp_pacing.rst
 other design considerations
 ```````````````````````````
 
-`general security and protocol considerations`__.
+`design principles`__.
 
-__ https://github.com/david415/reading_lists/blob/master/general.rst
+__ https://github.com/david415/reading_lists/blob/master/design_principles.rst
 
 `router scheduling considerations`__.
 
