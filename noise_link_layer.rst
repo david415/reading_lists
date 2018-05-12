@@ -1,4 +1,9 @@
 
+.. [KATZNOISE]   Angel, Y., "Katzenpost Mix Network Wire Protocol Specification", 2017,
+                 <https://github.com/katzenpost/docs/blob/master/specs/wire-protocol.rst>.
+
+.. [SANSIO]   "Writing I/O-Free (Sans-I/O) Protocol Implementations",
+              <https://github.com/brettcannon/sans-io/blob/master/how-to-sans-io.rst>.
 
 .. [NEWHOPE]  Alkim, E., Ducas, L., Poeppelmann, T., Schwabe, P.,
               "Post-quantum key exchange - a new hope",
